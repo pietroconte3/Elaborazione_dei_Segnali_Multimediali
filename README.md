@@ -2,6 +2,9 @@
 SEN2-PFT-SR: modello di super-risoluzione per migliorare immagini satellitari con upscaling 4x
 
 ---
+## Nota
+
+In seguito verranno inseriti il materiale e la documentazione scientifica mancanti.
 
 ## Descrizione
 
