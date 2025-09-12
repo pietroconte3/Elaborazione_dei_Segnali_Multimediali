@@ -53,5 +53,6 @@ Il modello si basa sulla rete **Progressive Focused Attention (PFA)**:
 
 ---
 
-Professoressa: Luisa Verdoliva
+Professoressa: Luisa Verdoliva<br>
 Università Federico II – A.A. 2024-2025
+
